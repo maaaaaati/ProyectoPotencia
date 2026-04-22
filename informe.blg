@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'informe.blg'
+[371] biber-MSWIN64:340> INFO - === 
+[499] Biber.pm:419> INFO - Reading 'informe.bcf'
+[607] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[630] bbl.pm:660> INFO - Writing 'informe.bbl' with encoding 'UTF-8'
+[630] bbl.pm:763> INFO - Output to informe.bbl
+[631] Biber.pm:131> WARN - The file 'informe.bcf' does not contain any citations!
+[631] Biber.pm:133> INFO - WARNINGS: 1
